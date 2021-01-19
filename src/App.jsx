@@ -19,7 +19,7 @@ export default function App() {
       <footer>
         <p class="attribution">
           Challenge by{" "}
-          <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.frontendmentor.io?ref=challenge">
             Frontend Mentor
           </a>
           . Coded by <a href="https://github.com/KyrinZero/single-price-grid-component">Bayajit Mohammed</a>.
