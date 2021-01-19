@@ -8,12 +8,23 @@ import Box3 from "./components/Box3";
 
 export default function App() {
   return (
-    <div className="outer-container">
-      <div className="inner-container">
-        <Box1 />
-        <Box2 />
-        <Box3 />
+    <>
+      <div className="outer-container">
+        <div className="inner-container">
+          <Box1 />
+          <Box2 />
+          <Box3 />
+        </div>
       </div>
-    </div>
+      <footer>
+        <p class="attribution">
+          Challenge by{" "}
+          <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
+            Frontend Mentor
+          </a>
+          . Coded by <a href="/">Bayajit Mohammed</a>.
+        </p>
+      </footer>
+    </>
   );
 }
